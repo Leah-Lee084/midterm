@@ -1,0 +1,38 @@
+div{
+    border: 1px solid black;
+    margin:20px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#BoxContent{
+    padding-bottom: 150px;
+    border: 1px dashed black;
+    background-color: aquamarine;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#BoxBorder{
+    background-color:yellow ;
+    border-radius: 15px 10px 0 10px;
+    border-color: cornflowerblue darkgoldenrod;
+}
+
+
+#BoxPadding{
+    background-color: forestgreen;
+    border-radius: 5px 15px 5px 0;
+    border-width: 2px 2px;
+    border-color: darkgoldenrod salmon rebeccapurple cornflowerblue
+}
+
+
+#BoxMargin{
+    border:1px dashed;
+    background-color: gray;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 3px 3px;
+    border-color: black fuchsia saddlebrown darkcyan;
+}
+

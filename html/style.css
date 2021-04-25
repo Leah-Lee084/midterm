@@ -1,0 +1,29 @@
+p, ul{
+    border:2px solid;
+    border-color:blue purple firebrick darkcyan;
+    padding: .5em;
+}
+.block
+, li
+{
+    border:2px solid blue;
+    padding: .5em;
+    border-radius: 8px 8px 8px 8px;
+    background-color: darkolivegreen;
+    box-shadow: 10px 10px 5px grey;
+    
+}
+ul
+{
+    display: flex;
+    list-style: none;
+}
+li
+{
+    margin:0px 10px;
+    border-style:double;
+}
+.block
+{
+    display: block;
+}
